@@ -11,7 +11,9 @@ const Footer = () => {
   return (
     <footer className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300">
       <div>
-        <h2 className="w-full text-3xl font-bold text-[#00df9a]">REACT</h2>
+        <h2 className="w-full text-3xl font-bold text-[#00df9a]">
+          DATA FINANCE
+        </h2>
         <p className="py-4">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit dolore,
           id corporis laborum a placeat nesciunt numquam unde alias doloremque
